@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	. "github.com/tendermint/go-common"
-	types "github.com/tendermint/tmsp/types"
+	types "github.com/anildukkipatty/tmsp/types"
 )
 
 type localClient struct {

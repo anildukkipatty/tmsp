@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	. "github.com/tendermint/go-common"
-	"github.com/tendermint/tmsp/types"
+	"github.com/anildukkipatty/tmsp/types"
 )
 
 type CounterApplication struct {

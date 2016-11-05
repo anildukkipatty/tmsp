@@ -9,7 +9,7 @@ import (
 	grpc "google.golang.org/grpc"
 
 	. "github.com/tendermint/go-common"
-	"github.com/tendermint/tmsp/types"
+	"github.com/anildukkipatty/tmsp/types"
 )
 
 // A stripped copy of the remoteClient that makes

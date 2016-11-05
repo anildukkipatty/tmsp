@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/tendermint/tmsp/types"
+	"github.com/anildukkipatty/tmsp/types"
 )
 
 var tmspType string

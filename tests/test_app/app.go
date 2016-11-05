@@ -8,7 +8,7 @@ import (
 	. "github.com/tendermint/go-common"
 	"github.com/tendermint/go-process"
 	"github.com/tendermint/tmsp/client"
-	"github.com/tendermint/tmsp/types"
+	"github.com/anildukkipatty/tmsp/types"
 )
 
 //----------------------------------------

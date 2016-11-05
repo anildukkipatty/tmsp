@@ -7,7 +7,7 @@ import (
 	"google.golang.org/grpc"
 
 	. "github.com/tendermint/go-common"
-	"github.com/tendermint/tmsp/types"
+	"github.com/anildukkipatty/tmsp/types"
 )
 
 // var maxNumberConnections = 2

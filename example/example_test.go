@@ -15,7 +15,7 @@ import (
 	"github.com/tendermint/tmsp/example/dummy"
 	nilapp "github.com/tendermint/tmsp/example/nil"
 	"github.com/tendermint/tmsp/server"
-	"github.com/tendermint/tmsp/types"
+	"github.com/anildukkipatty/tmsp/types"
 )
 
 func TestDummy(t *testing.T) {

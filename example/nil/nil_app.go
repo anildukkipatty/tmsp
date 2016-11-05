@@ -1,7 +1,7 @@
 package nilapp
 
 import (
-	"github.com/tendermint/tmsp/types"
+	"github.com/anildukkipatty/tmsp/types"
 )
 
 type NilApplication struct {
